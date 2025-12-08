@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name/First Name] 👋
+# Hi there! I'm Emanuel 👋
 
 ## 📊 Data Exploration and AI Enthusiast
 
