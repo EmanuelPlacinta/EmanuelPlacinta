@@ -45,5 +45,5 @@ To become a proficient **Data Analyst** or **Data Scientist**, capable of:
 
 Feel free to reach out if you have any advice, learning opportunities, or simply want to chat about Data Science!
 
-* [**LinkedIn**]([https://www.linkedin.com/in/emanuel-ioan-placinta-173914331/])
+* [**LinkedIn**](https://www.linkedin.com/in/emanuel-ioan-placinta-173914331/)
 * [**Email**](mailto:[emanuel-ioan.placinta@laplateforme.io])
